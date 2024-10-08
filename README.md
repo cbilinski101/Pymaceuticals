@@ -1,7 +1,7 @@
 # Pymaceuticals
 I accessed help through Xpert Learning Assiant, before class TA assistance, and various classmates using Slack. 
 
-Included in this repoistory: "Pymaceuticals folder containing the pymaceuticals_starter, Jupiter notebook.
+Included in this repoistory: "READEME, data folder, and 'pymaceuticals_starter - Jupiter notebook'.
 
 I managed to do the following:
 * Prepare the Data
