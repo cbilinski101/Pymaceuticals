@@ -1,4 +1,12 @@
 # Pymaceuticals
+
+### Update Oct 24, 2024
+
+### Fixed the following issues:
+* Scatter Plot
+* Calculate Correlation and Regression
+# 
+
 I accessed help through Xpert Learning Assiant, before class TA assistance, and various classmates using Slack. 
 
 Included in this repoistory: "READEME, data folder, and 'pymaceuticals_starter - Jupiter notebook'.
